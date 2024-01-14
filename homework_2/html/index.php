@@ -4,6 +4,7 @@ include "../src/function.php";
 echo "<b>Задание 1</b>";
 task1([1,2,3], false);
 echo '<br>';
+echo '<br>';
 
 echo "<b>Задание 2</b> <br>";
 echo "Результат: " . task2('+', 5, 7);
